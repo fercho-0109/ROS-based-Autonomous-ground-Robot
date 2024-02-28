@@ -25,6 +25,7 @@ The steps followed during the development of the project are:
 # File description
 The repository contains the main file
 1. **ros_ws**: this folder contains the workspace generated for this project
+2. **Report**: shows the complete work and schedule of the nodes
 
 # Example to run the experiment  
 **"ROS Simulation"**
