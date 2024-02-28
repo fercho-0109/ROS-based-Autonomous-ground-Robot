@@ -1,0 +1,8 @@
+<launch>
+  <!-- Lanzar Gazebo -->
+  <node name="gazebo" pkg="gazebo_ros" type="gazebo" args="$(arg world_file)" output="screen" />
+
+  <!-- Ruta al archivo de mundo -->
+  <arg name="world_file" default="/home/alexis/ros_ws/src/seguimiento_personas/scripts/world_person_tracking.world"/>
+</launch>
+

@@ -1,0 +1,4 @@
+# WordCount.srv
+string words #input
+---
+uint32 count #output
